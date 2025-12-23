@@ -7,6 +7,9 @@ sidebar_position: 1
 ### Prerequisites
 Before installing DOFLinx, you should already have DOF installed. You can find out more about installing DOF [here](../DOF/)
 
+### Full Manual
+- The full DOFLinx manual can be found here: [DOFLinx Manual](https://doflinx.github.io/docs/index.html)
+
 ### Downloading files
 - Download the files found here: [DOFLinx Files](https://github.com/DOFLinx/DOFLinx/releases)
 
