@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Introduction
 
-DOFLinx is the software that is used to connect FX2, FX3, Future Pinball and others to your devices. It still relies on DOF in order to work, so you need both DOF and DOFLinx installed to make a link from the game to your device. Since FX3 and other platforms do not typically have a full featured API for getting table events, feedback on these platforms is not as immersive or comprehensive as what you have in Visual Pinball. That being said, things like normal solenoid events for flippers, slings, and pop bumpers are covered quite well for most tables.
+DOFLinx is the software that is used to connect Pinball FX, M, FX2, FX3, Future Pinball, MAME, Infected Mushroom Pinball and others to your devices. It still relies on DOF in order to work, so you need both DOF and DOFLinx installed to make a link from the game to your device. Since FX3 and FX2 do not typically have a full featured API for getting table events, feedback on these platforms is not as immersive or comprehensive as what you have in Visual Pinball.  Pinball FX, M and Infected Mushroom Pinball are fully integrated with DOFLinx enabling a full experience. That being said, things like normal solenoid events for flippers, slings, and pop bumpers are covered quite well for most tables.
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
